@@ -1,11 +1,4 @@
 <?php
-
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /**
  * Determines whether a given string is a valid poll ID. It is valid if there 
  * exists a poll in the database with that ID.
