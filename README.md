@@ -2,7 +2,7 @@
 The backend PHP code powering rcv4me.info.
 
 ## Algorithm
-The scripts that implement the ranked-choice voting algorithm can be found in the 'classes' subfolder. Start with 'Contest.php'. All other scripts are just interfaces with the frontend.
+The scripts that implement the ranked-choice voting algorithm can be found in the 'classes' subfolder. Start with 'Contest.php'. All other scripts are just interfaces for the frontend.
 
 This is an implementation of the algorithm used in ranked-choice/instant runoff voting. It follows Robert's rules of order, albeit slightly generalized to account for edge cases that occur when there is a small number of ballots.
 
