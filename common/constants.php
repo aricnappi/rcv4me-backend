@@ -1,11 +1,5 @@
 <?php
-
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+/* Dummy values intentionally given here for security reasons */
 define('HOST', 'HostGoesHere');
 define('USER', 'UserGoesHere');
 define('PASSWORD', 'PasswordGoesHere');
